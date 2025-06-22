@@ -1,11 +1,8 @@
-<!-- README do perfil de Marcos Alcantara -->
-
-<!-- Tag de cargo -->
 <p align="left">
   <img src="https://img.shields.io/badge/Back--End%20Developer-0d1117?style=for-the-badge&logo=server&logoColor=white" />
 </p>
 
-# 👋 Marcelo Henrique
+# 👨‍💻 Marcelo Henrique
 
 <div align="justify">
 
@@ -15,9 +12,8 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
 
 </div>
 
----
 
-## 🛠️ Linguagens e Tecnologias
+## 🤖⚙ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
@@ -34,9 +30,8 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" alt="Vercel"/>
 </p>
 
----
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas
 
 <p align="left">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=MarcDevGuy127&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -44,9 +39,7 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcDevGuy127&theme=tokyonight" />
 </p>
 
----
-
-## 📬 Entre em Contato!
+## Entre em Contato!
 
 <p align="left">
   <a href="mailto:marceloh.github@email.com" target="_blank">
@@ -56,6 +49,6 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://marcdevguy127.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
