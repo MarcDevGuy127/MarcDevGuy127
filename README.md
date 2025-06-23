@@ -33,8 +33,6 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
 </p>
 
 
-## 📊 Estatísticas
-
 <p align="left">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDevGuy127&layout=compact&theme=tokyonight&hide_border=true"/>
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=MarcDevGuy127&show_icons=true&theme=tokyonight&hide_border=true" />
