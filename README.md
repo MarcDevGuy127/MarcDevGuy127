@@ -36,9 +36,9 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
 ## 📊 Estatísticas
 
 <p align="left">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=MarcDevGuy127&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDevGuy127&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcDevGuy127&theme=tokyonight" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDevGuy127&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=MarcDevGuy127&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcDevGuy127&theme=tokyonight" />
 </p>
 
 ## Entre em Contato!
