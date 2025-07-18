@@ -12,14 +12,14 @@
 
 <div align="justify">
 
-Sou um desenvolvedor back-end em formação, apaixonado por entender o funcionamento de sistemas e implementar soluções robustas e eficazes. Atualmente, curso Engenharia de Software e possuo experiência como estagiário de TI, considerando: levantamento de requisitos, desenvolvimento de produto e integração entre sistemas.
+I'm a back-end developer in training, passionate about understanding how systems work and implementing robust and effective solutions. I'm currently pursuing a degree in Software Engineering and have experience as an IT intern, with a focus on requirements gathering, product development, and system integration.
 
-Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de dados relacionais e comunicação entre aplicações. E através dos meus projetos pessoais/acadêmicos, busco sempre aprender boas práticas de programação, além de novas linguagens e ferramentas essenciais para a minha atuação.
+I'm particularly interested in data structures, databases, and application communication. Through my personal and academic projects, I continuously strive to learn best programming practices, as well as new languages and essential tools for my professional growth.
 
 </div>
 
 
-## 🤖⚙ Linguagens e Tecnologias
+## Languages & Technologies 🤖⚙
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
@@ -45,7 +45,7 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcDevGuy127&theme=tokyonight" />
 </p>
 
-### Entre em Contato!
+### Contact Me!
 
 <p align="left">
   <a href="mailto:marceloh.github@email.com" target="_blank">
