@@ -2,7 +2,13 @@
   <img src="https://img.shields.io/badge/Back--End%20Developer-0d1117?style=for-the-badge&logo=server&logoColor=white" />
 </p>
 
-# 👨‍💻 Marcelo Henrique
+# Welcome!
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Marcelo+Henrique;MarcDevGuy127;Back-End+Developer;Software+Engineering+Student;Systems+Development+Technologist;IT+Assistant;" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="justify">
 
@@ -48,7 +54,7 @@ Tenho especial interesse em arquiteturas limpas, estruturas de dados, banco de d
   <a href="https://linkedin.com/in/marcelo-henrique-costa-da-silva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolium-nu.vercel.app/" target="_blank">
+  <a href="https://portfoliomh-phi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
