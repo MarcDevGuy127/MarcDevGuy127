@@ -2,29 +2,26 @@
   <img src="https://img.shields.io/badge/Back--End%20Developer-0d1117?style=for-the-badge&logo=server&logoColor=white" />
 </p>
 
-# Welcome!
-
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Marcelo+Henrique;MarcDevGuy127;Back-End+Developer;Software+Engineering+Student;Systems+Development+Technologist;IT+Assistant;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Hey,+what's+up?;Marcelo+Henrique;MarcDevGuy127;Back-End+Developer;Software+Engineering+Student;Systems+Development+Technologist;IT+Assistant;" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="justify">
-
-I'm a back-end developer in training, passionate about understanding how systems work and implementing robust and effective solutions. I'm currently pursuing a degree in Software Engineering and have experience as an IT intern, with a focus on requirements gathering, product development, and system integration.
-
-I'm particularly interested in data structures, databases, and application communication. Through my personal and academic projects, I continuously strive to learn best programming practices, as well as new languages and essential tools for my professional growth.
-
+  I'm a back-end developer in training, passionate about understanding how systems work and implementing robust and effective solutions. I'm currently pursuing a degree in Software Engineering and have experience as an IT intern, with a focus on requirements gathering, product development, and system integration.
+  
+  I'm particularly interested in data structures, databases, and application communication. Through my personal and academic projects, I continuously strive to learn best programming practices, as well as new languages and essential tools for my professional growth.
 </div>
 
 
-## Languages & Technologies 🤖⚙
+## Languages & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" alt="Bootstrap"/>
@@ -39,7 +36,7 @@ I'm particularly interested in data structures, databases, and application commu
 </p>
 
 
-<p align="left">
+<p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDevGuy127&layout=compact&theme=tokyonight&hide_border=true"/>
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=MarcDevGuy127&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcDevGuy127&theme=tokyonight" />
@@ -48,13 +45,22 @@ I'm particularly interested in data structures, databases, and application commu
 ### Contact Me!
 
 <p align="left">
-  <a href="mailto:marceloh.github@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:marceloh.github@email.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
   </a>
-  <a href="https://linkedin.com/in/marcelo-henrique-costa-da-silva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/marcelo-henrique-costa-da-silva" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://portfoliomh-phi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://portfoliomh-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfólio"
+    />
   </a>
 </p>
