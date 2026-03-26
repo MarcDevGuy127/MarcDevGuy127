@@ -50,8 +50,15 @@ I'm a Software Engineering student and a proactive developer passionate about bu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MarcDevGuy127&theme=tokyonight&hide_border=true" height="150"/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDevGuy127&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcDevGuy127&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDevGuy127&layout=compact&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcDevGuy127&theme=github-compact)
 </div>
 
 ---
@@ -120,5 +127,5 @@ I'm a Software Engineering student and a proactive developer passionate about bu
 ⚡ Enhanced full-stack integration skills and understanding of real-world application workflows.
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=MarcDevGuy127&color=blue)
 [![](https://visitcount.itsvg.in/api?id=MarcDevGuy127&icon=0&color=0)](https://visitcount.itsvg.in)
