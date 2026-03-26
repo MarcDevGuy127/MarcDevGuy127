@@ -116,7 +116,7 @@ I'm a Software Engineering student and a proactive developer passionate about bu
 ### 4. **Cinema Website** - Academic Project
 🔗 [GitHub Repository](https://github.com/MarcDevGuy127/cinema)  
 💻 **Tech:** HTML, CSS, JavaScript, PHP, MySQL, XAMPP
-📌 **Description:** Website application to manage clients, movie sessions, tickets system, users registration for a ficticious cinema website.  
+<br>📌 **Description:** Website application to manage clients, movie sessions, tickets system, users registration for a ficticious cinema website.  
 ⚡ **Impact:** Improved understanding of frontend and backend integration.
 
 [![](https://visitcount.itsvg.in/api?id=MarcDevGuy127&icon=0&color=0)](https://visitcount.itsvg.in)
