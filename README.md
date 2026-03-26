@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Marcelo</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer in Progress</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi,+my+name+is+Marcelo!;I'm+a+Software+Engineer;Be+Welcome!" alt="Typing SVG"/>
+</p>
 
 ## 🌐 Connect with me
 <p align="center">
+<a href="https://github.com/MarcDevGuy127/"><img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/marceloh-silva"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/MarcDevGuy127"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://youtube.com/@MarcDevGuy127"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
