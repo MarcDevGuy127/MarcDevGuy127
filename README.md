@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer in Progress</h3>
 
----
-
 ## 🌐 Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/marceloh-silva"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -21,8 +19,6 @@
 ---
 
 ## 💫 About Me
-Hi there! I'm Marcelo 👋  
-
 I'm a Software Engineering student and a proactive developer passionate about building efficient and scalable systems. I’m constantly improving my skills through continuous learning and hands-on projects.
 
 💡 I enjoy understanding not only *how systems work*, but also *why they are designed that way* — focusing on best practices, clean architecture, and performance.
@@ -78,6 +74,9 @@ I'm a Software Engineering student and a proactive developer passionate about bu
 ### 🔌 RESTful API – Test & Integration
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/api_test)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-404d59?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=flat&logo=postgresql&logoColor=white)
@@ -92,6 +91,9 @@ I'm a Software Engineering student and a proactive developer passionate about bu
 ### 👥 Users Management System
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/users_manager_system)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
@@ -105,6 +107,9 @@ I'm a Software Engineering student and a proactive developer passionate about bu
 ### 🎬 Cinema Website System
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/cinema)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
