@@ -128,10 +128,9 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Stats" />
-
 <div align="center">
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00ffff&center=true&vCenter=true&width=600&lines=GitHub+Stats" />
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarcDevGuy127&theme=radical)
 
 </div>
@@ -139,7 +138,7 @@ Proactive • Communicative • Team-oriented • Fast learner
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00ff51&center=true&vCenter=true&width=600&lines=Follow+me+!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00ffff&center=true&vCenter=true&width=600&lines=Follow+me+!" />
 </p>
 <p align="center">
 <a href="https://github.com/MarcDevGuy127/"><img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/marceloh-silva"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/MarcDevGuy127"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a> <a href="https://youtube.com/@MarcDevGuy127"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a> <a href="mailto:contact.markdevguy127@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
