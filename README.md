@@ -76,7 +76,8 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Featured+Projects" />
 
-### 🔌 RESTful API – Authentication & Integration
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=RESTful+API" />
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/api_test)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js)
@@ -89,7 +90,8 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-### 👥 Users Management System
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Users+Management+System" />
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/users_manager_system)
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php)
@@ -100,7 +102,8 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-### 🎬 Cinema System
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Cinema+System" />
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/cinema)
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php)
@@ -111,7 +114,7 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Portfolio+Website" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Portfolio+Website" />
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-000?style=for-the-badge&logo=vercel)](https://portfoliomh-phi.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/portfolio)
