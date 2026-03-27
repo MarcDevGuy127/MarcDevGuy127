@@ -17,7 +17,7 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-## 💻 Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Tech+Stack" />
 <p align="center">
 
 <!-- Languages -->
@@ -74,7 +74,7 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Featured+Projects" />
 
 ### 🔌 RESTful API – Authentication & Integration
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/api_test)
@@ -84,7 +84,7 @@ Proactive • Communicative • Team-oriented • Fast learner
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=flat&logo=postgresql)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman)
 
-📌 Built a RESTful API with authentication, structured endpoints, and full Postman testing.  
+📌 Developing a RESTful API with authentication, structured endpoints, and full Postman testing.  
 ⚡ Focused on backend architecture, request handling, and database integration.
 
 ---
@@ -111,7 +111,8 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-### 🌐 Portfolio Website
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Portfolio+Website" />
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-000?style=for-the-badge&logo=vercel)](https://portfoliomh-phi.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/portfolio)
 
@@ -124,7 +125,8 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=10000&color=ffffff&left=true&vCenter=true&width=600&lines=Stats" />
+
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarcDevGuy127&theme=radical)
