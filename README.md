@@ -7,12 +7,12 @@ I'm a <b>Software Engineering student</b> focused on backend development and bui
 
 I enjoy understanding not just *how systems work*, but *why they are designed that way* — applying clean architecture, best practices, and performance-oriented thinking.
 
-🚀 Experience as a **QA Tester**, bringing strong attention to detail and a quality-first mindset into development.
+Experience as a **QA Tester**, bringing strong attention to detail and a quality-first mindset into development.
 
-🎯 **Focus:**
+**Focus:**
 Backend • APIs • Databases • System Design  
 
-💬 **Soft skills:**  
+**Soft skills:**  
 Proactive • Communicative • Team-oriented • Fast learner  
 
 ---
@@ -80,6 +80,9 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/api_test)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/express-404d59?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=flat&logo=postgresql)
@@ -94,6 +97,9 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/users_manager_system)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql)
 
@@ -106,6 +112,9 @@ Proactive • Communicative • Team-oriented • Fast learner
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MarcDevGuy127/cinema)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql)
 
