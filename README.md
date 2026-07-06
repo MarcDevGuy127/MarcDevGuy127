@@ -16,6 +16,8 @@
 
 <p data-importer="text" align="left">✨ Developing applications since 2020.<br>📈 Professional Experiences: I was QA Tester, reviewing and testing corporative applications!<br>📚 I'm learning C#, TypeScript, BSON and API's right now.<br>🎯 Goals: I want to be a Dev and grow up for a Software Engineer!<br>🛠 Soft Skills: Proative - Flexible - Feedbacks-Oriented<br>🌎 Languages: English - Brazilian Portuguese<br>🎲 Fun fact: You read technical books? We are friends now =]</p>
 
+> *<p data-importer="text" align="left">🔎 Do you want to know more about me? Check my portfolio <a href="https://portfoliomh-phi.vercel.app/">here</a>.</p>*
+
 ###
 
 <h2 data-importer="text" align="left">I code with</h2>
